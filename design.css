@@ -1,0 +1,21 @@
+.content {
+  text-align: center;
+  margin-right: 30%;
+  margin-left: 35%;
+  margin-top: 25%;
+  color: white;
+}
+
+.green {
+  color: green;
+}
+
+body {
+  background-image: url("pexels-jc-siller-7042988.jpg");
+  background-size: cover;
+  opacity: 90%;
+}
+
+html {
+  height: 100%;
+}
